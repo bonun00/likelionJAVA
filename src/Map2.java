@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class map2 {
+public class Map2 {
     public static void main(String[] args) {
 
         ArrayList list_1 = new ArrayList<>();
